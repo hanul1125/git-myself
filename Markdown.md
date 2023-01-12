@@ -1,15 +1,54 @@
-# **Today I Learned**
+# 오늘 배운 내용 정리
 
-TIL  
-한 학기의 기록   
-주저리 주저리
+#  heading
+## heading
+### heading
+제목 
+
+- 리스트를 표현
+- 엔터
+- 자동 하나 더
+1. 작성
+2. 순서 
+3. 리스트
+4. 작성 가능
+
+### 인라인 코드
+`print()` 라는 함수 사용 
+### 코드 블록
+``` python
+for in range(10)
+    print(i)
+```
 
 
----
+**진한게**
+*기울게*
+***진하고기울게***
+
+네이버로 이동하는 링크 만들기
+엔터 치면 적용안됨  
+
+[눈에 보이는 부분](링크가 들어갈 부분(절대경로, 상대경로))  
+[네이버](https://www.naver.com/)
+
+![이미지](C:\Users\SSAFY\ssafy9\startcamp\markdown\assets\milk.jpg) 
 
 
-## Categories
 
-- [Start Camp]()
-- [1주차]( )
-- 
+
+
+
+
+
+# Markdown Basic
+
+1. 제목   
+   #제목
+
+--- 
+
+> 인용문
+
+
+
