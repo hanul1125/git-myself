@@ -32,12 +32,7 @@ for in range(10)
 [눈에 보이는 부분](링크가 들어갈 부분(절대경로, 상대경로))  
 [네이버](https://www.naver.com/)
 
-![이미지](C:\Users\SSAFY\ssafy9\startcamp\markdown\assets\milk.jpg) 
-
-
-
-
-
+![이미지](상대경로로 하기, 특히 readme 에서는 절대경로 불가)
 
 
 
