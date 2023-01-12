@@ -1,8 +1,7 @@
 # **Today I Learned**
 
-TIL  
-한 학기의 기록   
-주저리 주저리
+1학기의 기록들   
+
 
 
 ---
@@ -10,6 +9,10 @@ TIL
 
 ## Categories
 
-- [Start Camp]()
-- [1주차]( )
-- 
+- Start Camp 
+  - [Markdown]()
+
+- 1주차 
+
+
+- 2주차
